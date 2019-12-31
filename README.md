@@ -7,8 +7,8 @@
   | --- | --- |
   |[p4misc/main](https://github.com/p4misc/main)|未整理ですがHelix Coreサーバを構築するためのDockerfileなどを配置しています。|
   |[p4misc/p4prometheus](https://github.com/p4misc/main)|Helix Coreのモニタリング環境を構築するためのDockerfileなどを配置しています。| 
-  |[UnrealGameSyncビルドメモ](https://github.com/p4misc/memo/blob/master/UnrealGameSyncMemo.md)|UnrealGameSyncのビルド方法に関するメモです。|
-  |[MetadataServer構築メモ](https://github.com/p4misc/memo/blob/master/MetadataServerMemo.md)|UnrealGameSync MetadataServerの構築方法に関するメモです。|
+  |[p4misc/memo](https://github.com/p4misc/memo)<br>[UnrealGameSyncビルドメモ](https://github.com/p4misc/memo/blob/master/UnrealGameSyncMemo.md)|UnrealGameSyncのビルド方法に関するメモです。|
+  |[p4misc/memo](https://github.com/p4misc/memo)<br>[MetadataServer構築メモ](https://github.com/p4misc/memo/blob/master/MetadataServerMemo.md)|UnrealGameSync MetadataServerの構築方法に関するメモです。|
 
 - [Dockerfileなどの成果物を配置しています(未整理)](https://github.com/p4misc/main)
   - [p4prometheusを配置しています](https://github.com/p4misc/p4prometheus)
