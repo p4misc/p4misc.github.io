@@ -34,3 +34,11 @@
   - P4EXPに関しては日本語リソースを含むインストーラを入手することができます。
 - [FTPサイト](http://ftp.perforce.com/perforce/)
   - Helix Coreの旧バージョンから最新バージョンまでのバイナリやドキュメントを入手することができます。
+
+## 東陽テクニカのリソース
+- [ナレッジベース](https://kb.toyo.co.jp/wiki/)
+  - Helix Coreに関する各種ナレッジが登録されています。  
+- [インストーラ(日本語リソース付き)のダウンロード](https://www.toyo.co.jp/ss/download/detail/hc_products.html)
+  - Helix Coreのインストーラ(日本語リソース付き)を入手することができます。
+- [日本語マニュアル](https://www.toyo.co.jp/ss/download/detail/hc_manuals.html)
+  - Helix Coreの日本語マニュアルを閲覧することができます。
