@@ -41,16 +41,10 @@
 - [ブログ](https://perforce.com/blog)
   - Helix Coreに関するブログ記事が登録されています。  
     TOPICSでVersion Controlを選択します。
-
-<br />
 - [フォーラム](https://twitter.com/perforce)
   - Helix Coreに関するユーザフォーラムです。
-
-<br />
 - [Workshop](https://swarm.workshop.perforce.com/)
   - Helix Coreのコミュニティメンバが作成したコンテンツが登録されています。
-
-<br />
 - [Youtube](https://m.youtube.com/user/perforcesoftware)
 - [SlideShare](https://www.slideshare.net/perforce)
 - [Twitter](https://twitter.com/perforce)
@@ -58,8 +52,6 @@
 - [インストーラ(英語版)のダウンロード](https://www.perforce.com/downloads)
   - Helix Coreのインストーラ(英語版)を入手することができます。
   - P4EXPに関しては日本語リソースを含むインストーラを入手することができます。
-
-<br />
 - [FTPサイト](http://ftp.perforce.com/perforce/)
   - Helix Coreの旧バージョンから最新バージョンまでのバイナリやドキュメントを入手することができます。
 
@@ -67,11 +59,7 @@
 ## 東陽テクニカのリソース
 - [ナレッジベース](https://kb.toyo.co.jp/wiki/)
   - Helix Coreに関する各種ナレッジが登録されています。  
-
-<br />
 - [インストーラ(日本語リソース付き)のダウンロード](https://www.toyo.co.jp/ss/download/detail/hc_products.html)
   - Helix Coreのインストーラ(日本語リソース付き)を入手することができます。
-
-<br />
 - [日本語マニュアル](https://www.toyo.co.jp/ss/download/detail/hc_manuals.html)
   - Helix Coreの日本語マニュアルを閲覧することができます。
