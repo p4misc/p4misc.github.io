@@ -3,17 +3,17 @@
 ## p4miscのリソース
 - [GitHub](https://github.com/p4misc)
 
-  | リポジトリ名/コンテンツ名 | 概要 |
+  | リポジトリ名/コンテンツ名&nbsp;&nbsp; | 概要 |
   | --- | --- |
   |[p4misc/main](https://github.com/p4misc/main)|未整理ですがHelix Coreサーバを構築するためのDockerfileなどを配置しています。|
   |[p4misc/p4prometheus](https://github.com/p4misc/main)|Helix Coreのモニタリング環境を構築するためのDockerfileなどを配置しています。| 
   |[p4misc/memo](https://github.com/p4misc/memo)<br>[UnrealGameSyncビルドメモ](https://github.com/p4misc/memo/blob/master/UnrealGameSyncMemo.md)|UnrealGameSyncのビルド方法に関するメモです。|
   |[p4misc/memo](https://github.com/p4misc/memo)<br>[MetadataServer構築メモ](https://github.com/p4misc/memo/blob/master/MetadataServerMemo.md)|UnrealGameSync MetadataServerの構築方法に関するメモです。|
-
+  
 
 - [DockerHub](https://hub.docker.com/u/p4misc)
 
-  | リポジトリ名:タグ名 | 概要 |
+  | リポジトリ名:タグ名&nbsp;&nbsp; | 概要 |
   | --- | --- |
   |[p4misc/psla:latest](https://hub.docker.com/repository/docker/p4misc/psla)|Perforce Server Log Analyzer (PSLA)のDockerイメージ(和訳版)|
   |[p4misc/psla:english](https://hub.docker.com/repository/docker/p4misc/psla)|Perforce Server Log Analyzer (PSLA)のDockerイメージ(英語版)|
@@ -29,7 +29,7 @@
 
   ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
 
-  | コンテンツ名 | 概要 |
+  | コンテンツ名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 概要 |
   | --- | --- |
   |[(英語)Upgrading a Helix Server](https://community.perforce.com/s/article/2467)|Helix Coreサーバのアップグレード方法を紹介した記事です。|
   |[(英語)Using the Spec Depot](https://community.perforce.com/s/article/2445)|スペックディポの使用方法を紹介した記事です。|
