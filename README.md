@@ -31,7 +31,7 @@
 
   ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
 
-  | コンテンツ名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 概要 |
+  | コンテンツ名　　　　　　　　　　　　| 概要 |
   | --- | --- |
   |[(英語)Upgrading a Helix Server](https://community.perforce.com/s/article/2467)|Helix Coreサーバのアップグレード方法を紹介した記事です。|
   |[(英語)Using the Spec Depot](https://community.perforce.com/s/article/2445)|スペックディポの使用方法を紹介した記事です。|
