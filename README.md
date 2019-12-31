@@ -23,7 +23,8 @@
 
 ## Perforce Softwareのリソース
 - [ナレッジベース](https://community.perforce.com)
-  - ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
+
+  ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
 
   | コンテンツ名 | 概要 |
   | --- | --- |
