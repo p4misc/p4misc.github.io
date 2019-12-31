@@ -21,8 +21,6 @@
 
 <br />
 - [Twitter](https://twitter.com/p4misc)
-
-<br />
 - [Twilog](https://twilog.org/p4misc)
 
 
@@ -54,17 +52,9 @@
 
 <br />
 - [Youtube](https://m.youtube.com/user/perforcesoftware)
-
-<br />
 - [SlideShare](https://www.slideshare.net/perforce)
-
-<br />
 - [Twitter](https://twitter.com/perforce)
-
-<br />
 - [Facebook](https://twitter.com/perforce)
-
-<br />
 - [インストーラ(英語版)のダウンロード](https://www.perforce.com/downloads)
   - Helix Coreのインストーラ(英語版)を入手することができます。
   - P4EXPに関しては日本語リソースを含むインストーラを入手することができます。
@@ -85,5 +75,3 @@
 <br />
 - [日本語マニュアル](https://www.toyo.co.jp/ss/download/detail/hc_manuals.html)
   - Helix Coreの日本語マニュアルを閲覧することができます。
-
-<br />
