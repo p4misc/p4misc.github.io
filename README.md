@@ -15,17 +15,28 @@
   - [UnrealGameSyncのビルドメモ](https://github.com/p4misc/memo/blob/master/UnrealGameSyncMemo.md)
   - [UnrealGameSyncのMetadataServerの構築方法に関するメモ](https://github.com/p4misc/memo/blob/master/MetadataServerMemo.md)  
 - [DockerHub](https://hub.docker.com/u/p4misc)
-  Helix Coreの
-  - [Perforce Server Log Analyzer (PSLA)のDockerイメージ(和訳版) `docker push p4misc/psla:latest`](https://hub.docker.com/repository/docker/p4misc/psla)
-  - [Perforce Server Log Analyzer (PSLA)のDockerイメージ(英語版) `docker push p4misc/psla:english`](https://hub.docker.com/repository/docker/p4misc/psla)
-  - [Helix Coreのモニタリング環境 with p4prometheusのDockerイメージ) `docker push p4misc/p4prometheus:latest`](https://hub.docker.com/repository/docker/p4misc/p4prometheus)
+
+  | リポジトリ名:タグ名 | 概要 |
+  | --- | --- |
+  |[p4misc/psla:latest](https://hub.docker.com/repository/docker/p4misc/psla)|Perforce Server Log Analyzer (PSLA)のDockerイメージ(和訳版)|
+  |[p4misc/psla:english](https://hub.docker.com/repository/docker/p4misc/psla)|Perforce Server Log Analyzer (PSLA)のDockerイメージ(英語版)|
+  |[p4misc/p4prometheus:latest](https://hub.docker.com/repository/docker/p4misc/p4prometheus)|Helix Coreのモニタリング環境(p4prometheus付き)のDockerイメージ|
+
 - [Twitter](https://twitter.com/p4misc)
 - [Twilog](https://twilog.org/p4misc)
 
 ## Perforce Softwareのリソース
 - [ナレッジベース](https://community.perforce.com)
-  - Helix Coreに関する各種ナレッジが登録されています。  
-    Articles by ProductでHelix Coreを選択します。
+  - ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
+
+  | コンテンツ名 | 概要 |
+  | --- | --- |
+  |[(英語)Upgrading a Helix Server](https://community.perforce.com/s/article/2467)|Helix Coreサーバのアップグレード方法を紹介した記事です。|
+  |[(英語)Using the Spec Depot](https://community.perforce.com/s/article/2445)|スペックディポの使用方法を紹介した記事です。|
+  |[(英語)Autotune - Improved performance over long latency TCP connections](https://community.perforce.com/s/article/15368)|高レイテンシのNW環境向けのチューニング方法を紹介した記事です。|
+  |[(英語)p4 reconcile -m - Speeding up the Client Reconcile Command](https://community.perforce.com/s/article/15133)|p4 reconcileを高速化する方法を紹介した記事です。|
+  |[(英語)External Archive Transfer using pull-archive and edge-content triggers](https://community.perforce.com/s/article/15337)|レプリカ構成/コミット・エッジ構成でサードパーティ製のファイル転送処理を使用する方法を紹介した記事です。|
+
 - [ブログ](https://perforce.com/blog)
   - Helix Coreに関するブログ記事が登録されています。  
     TOPICSでVersion Controlを選択します。
