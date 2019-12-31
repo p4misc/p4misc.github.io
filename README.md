@@ -1,8 +1,6 @@
 # Helix Core(旧名称:Perforce)の各種リソース
 
 ## p4miscのリソース
-- [GitHub](https://github.com/p4misc)  
-
 - [GitHub](https://github.com/p4misc)
 
   | リポジトリ名/コンテンツ名 | 概要 |
