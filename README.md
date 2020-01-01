@@ -25,6 +25,13 @@
 
 
 ## Perforce Softwareのリソース
+- What's New
+
+  | コンテンツ名　　　　　　　　　　　　| 概要 |
+  | --- | --- |
+  |[(英語)What's New in Helix Core](https://www.perforce.com/products/helix-core/whats-new-helix-core)|Helix Coreの新機能ハイライト|
+
+<br />
 - [ナレッジベース](https://community.perforce.com)
 
   ナレッジベースにはHelix Coreに関する各種ナレッジが登録されています。Articles by ProductでHelix Coreを選択すると、Helix Coreに関する記事に絞り込むことができます。
@@ -46,6 +53,24 @@
 - [Workshop](https://swarm.workshop.perforce.com/)
   - Helix Coreのコミュニティメンバが作成したコンテンツが登録されています。
 - [Youtube](https://m.youtube.com/user/perforcesoftware)
+
+  | コンテンツ名　　　　　　　　　　　　| 概要 |
+  | --- | --- |
+  |[(英語)Setting up a Workspace in P4V](https://www.youtube.com/watch?v=-nlpBSLBjDs)|Helix Coreのワークスペースの概要とP4Vでワークスペースを作成・編集する方法(Classic Depot用)|
+  |[(英語)Helix Core Basic Workflow](https://www.youtube.com/watch?v=m4E3xp8ypLw)|Perforceを利用する際の基本ワークフロー(概念説明)<br />・ファイル同期<br />・チェックアウト<br />・サブミット(チェックイン)<br />・チェンジリストとその履歴<br />・ファイルの変更履歴<br />・他ユーザのチェックアウト中ファイルの特定<br />・複数ユーザの同時編集の防止<br />・複数ユーザの同時編集結果のマージ)|
+  |[(英語)Helix MFA Overview](https://www.youtube.com/watch?v=XPH6qXf9Unss)|Helix Coreに多要素認証を設定する方法|
+
+<br />
+- 動画コンテンツ
+
+  | コンテンツ名　　　　　　　　　　　　| 概要 |
+  | --- | --- |
+  |[(英語)What Is Perforce Streams?](https://www.perforce.com/solutions/version-control/branching-brains)|Stream機能のクイックイントロダクション|
+  |[(英語)Using the Image Diff Tool](https://www.perforce.com/video-tutorials/vcs/using-image-diff-tool)|画像の差分表示デモ|
+  |[(英語)Perforce in the Cloud: Go Global With Helix Core on AWS](https://www.perforce.com/webinars/vcs/perforce-cloud-go-global-helix-core-aws)|AWS上でPerforceを使用する際のトポロジーの紹介Webinar|
+  |[(英語)Best Practices for Game Development Using Streams](https://www.perforce.com/webinars/vcs/best-practices-game-development-using-streams)|英国Sumo Digitalにおけるストリーム運用のWebinar|
+
+<br />
 - [SlideShare](https://www.slideshare.net/perforce)
 - [Twitter](https://twitter.com/perforce)
 - [Facebook](https://twitter.com/perforce)
