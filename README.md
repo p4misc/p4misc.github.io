@@ -1,4 +1,8 @@
-# p4miscのリソース
+# 本サイトについて
+本サイトではHelix Core(旧称Perforce)に関する情報の入手先や各コンテンツの概要を紹介していきます。
+整理整頓をし終えるまでは乱雑にまとめていく形になりますが、ご了承ください。
+
+## p4miscのリソース
 - [GitHub](https://github.com/p4misc)
 
   | リポジトリ名/コンテンツ名&nbsp;&nbsp; | 概要 |
@@ -22,7 +26,7 @@
 - [Twilog](https://twilog.org/p4misc)
 
 
-# Perforce Softwareのリソース
+## Perforce Softwareのリソース
 - What's New
 
   | コンテンツ名　　　　　　　　　　　　| 概要 |
@@ -79,7 +83,7 @@
   - Helix Coreの旧バージョンから最新バージョンまでのバイナリやドキュメントを入手することができます。
 
 
-# 東陽テクニカのリソース
+## 東陽テクニカのリソース
 - [ナレッジベース](https://kb.toyo.co.jp/wiki/)
   - Helix Coreに関する各種ナレッジが登録されています。  
 - [インストーラ(日本語リソース付き)のダウンロード](https://www.toyo.co.jp/ss/download/detail/hc_products.html)
