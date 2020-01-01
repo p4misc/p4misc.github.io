@@ -2,6 +2,5 @@ theme: jekyll-theme-cayman
 locale: "ja-JP"
 title: "Helix Coreの各種リソース紹介"
 name: "p4misc"
-description: "Helix Coreの各種情報の入手先をまとめていきます。"
 url: "https://p4misc.github.io"
 repository: "p4misc/p4misc.github.io"
