@@ -4,7 +4,6 @@ title: "Helix Core参考リソースのまとめ"
 name: "p4misc"
 url: "https://p4misc.github.io"
 repository: "p4misc/p4misc.github.io"
-google-site-verification: "Clf7stPH3DxzaZd28rViGit3WEmqx_d-G5k3V72rWeU"
 plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
