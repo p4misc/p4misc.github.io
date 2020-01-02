@@ -6,3 +6,4 @@ url: "https://p4misc.github.io"
 repository: "p4misc/p4misc.github.io"
 plugins:
  - jekyll-sitemap
+ - jekyll-seo-tag
