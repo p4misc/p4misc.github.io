@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 locale: "ja-JP"
 title: "Helix Core参考リソースのまとめ"
-description: "
-本サイトではHelix Core(旧称Perforce)に関する参考情報の入手先や各コンテンツの概要を紹介していきます。"
+description: "本サイトではHelix Core(旧称Perforce)に関する参考情報の入手先や各コンテンツの概要を紹介していきます。"
 name: "p4misc"
 url: "https://p4misc.github.io"
 repository: "p4misc/p4misc.github.io"
