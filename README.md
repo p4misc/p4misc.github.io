@@ -65,7 +65,7 @@
   - [(英語)Setting up a Workspace in P4V](https://www.youtube.com/watch?v=-nlpBSLBjDs) - Helix Coreのワークスペースの概要とP4Vでワークスペースを作成・編集する方法(Classic Depot用) : Perforce Software社
 
 
-## P4V
+## P4V (Helix Coreの専用GUI)
 
   - [(英語)Using the Image Diff Tool](https://www.perforce.com/video-tutorials/vcs/using-image-diff-tool) - 画像の差分表示機能のデモ動画 : Perforce Software社
   - [(英語)Using the Revision Graph](https://www.perforce.com/video-tutorials/using-revision-graph) - リビジョングラフの簡易解説動画 : Perforce Software社
