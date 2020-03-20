@@ -42,8 +42,8 @@
 
 
 ## 用語集
-  - [(英語)Glossary](https://www.perforce.com/manuals/v15.1/p4guide/glossary.html) - Helix Coreの用語集 : Perforce Software社
-  - [(和訳)用語集](https://www.toyo.co.jp/files/user/img/product/ss/help/perforce/r15.1/manuals/p4guide/glossary.html) - Helix Coreの用語集 : 東陽テクニカ
+  - [(英語)Glossary](https://www.perforce.com/manuals/v19.1/cmdref/Content/Shared/glossary.html) - Helix Coreの用語集 : Perforce Software社
+  - [(和訳)用語集](https://www.toyo.co.jp/files/user/img/product/ss/help/perforce/r19.1/manuals/p4guide/Content/Shared/glossary.html) - Helix Coreの用語集 : 東陽テクニカ
 
 
 ## 基本コンセプト
@@ -194,11 +194,15 @@
   - [(英語)Perforce JavaScript API for Visual Tools](https://www.perforce.com/manuals/p4jsapi/01_p4jsapi.html) - P4JsApiのマニュアル : Perforce Software社
   - [(日本語)ビジュアル ・ ツール用JavaScript API](https://www.toyo.co.jp/files/user/img/product/ss/pdf/p4jsapi_ja.pdf) - P4JsApiの日本語マニュアル : 東陽テクニカ
   - [Javascript用API](https://github.com/Pisamad/p4api) - Javascript用API : Pisamadさん
+  - [P4Pythonのテスト用Dockerイメージの元データ](https://github.com/p4misc/p4python) : p4misc
+  - [P4Pythonのテスト用Dockerイメージ](https://hub.docker.com/r/p4misc/p4python) : p4misc
 
 
 ## トリガ
   - [ワークスペースの作成時に設定を強制変更する処理の雛形スクリプト](https://swarm.workshop.perforce.com/projects/p4pythonlib/files/p4pythonlib/triggers/clienttrigger.py) : Perforce Software社
   - [大文字小文字違いのファイルの登録を防止するスクリプト](https://swarm.workshop.perforce.com/files/guest/sven_erik_knop/P4Pythonlib/triggers/CheckCaseTrigger.py) : Perforce Software社
+  - [トリガのテスト用Dockerイメージの元データ](https://github.com/p4misc/p4triggerdemo) : p4misc
+  - [トリガのテスト用Dockerイメージ](https://hub.docker.com/r/p4misc/p4triggerdemo) : p4misc
 
 
 ## UE4関連
